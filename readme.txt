@@ -1,0 +1,1 @@
+java -cp BaseX90.jar org.basex.BaseX -o em.xml em.xquery
